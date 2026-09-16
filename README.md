@@ -16,7 +16,7 @@ The application allows users to add, view, edit, update, and delete product deta
 - MongoDB database integration
 - Responsive and simple interface
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 - React.js
